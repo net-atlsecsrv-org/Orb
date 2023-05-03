@@ -52,7 +52,7 @@
         "mobx-react": "3.5.8",
         "mobx-react-devtools": "4.2.9",
         "moment": "2.22.2",
-        "monaco-editor": "0.7.0",
+        "monaco-editor": "0.37.1",
         "nan": "2.5.1",
         "nuget-runner": "0.1.10",
         "pako": "1.0.5",
