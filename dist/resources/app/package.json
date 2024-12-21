@@ -35,7 +35,7 @@
         "draggabilly": "2.1.1",
         "electron-config": "0.2.1",
         "electron-context-menu": "0.8.0",
-        "electron-devtools-installer": "2.2.4",
+        "electron-devtools-installer": "4.0.0",
         "electron-regedit": "1.0.6",
         "electron-squirrel-startup": "1.0.0",
         "font-awesome": "4.7.0",
